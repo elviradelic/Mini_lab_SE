@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Design Patterns Basics",
+    "description": "Introduction to design patterns.",
+    "type": "course",
+    "progress": 0,
+    "enrolled": false,
+    "score": 75
+  },
+  {
+    "id": 2,
+    "title": "Software Architecture",
+    "description": "Learn layered and MVC architectures.",
+    "type": "course",
+    "progress": 0,
+    "enrolled": false,
+    "score": 45
+  },
+  {
+    "id": 3,
+    "title": "Web Development Fundamentals",
+    "description": "Frontend and backend basics.",
+    "type": "course",
+    "progress": 0,
+    "enrolled": false,
+    "score": 90
+  }
+]
